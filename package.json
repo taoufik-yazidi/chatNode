@@ -25,6 +25,6 @@
         "restify": "^8.3.0",
         "restify-cors-middleware": "^1.1.1",
         "socket.io": "^2.2.0",
-        "validator": "^10.11.0"
+        "validator": "^13.7.0"
     }
 }
